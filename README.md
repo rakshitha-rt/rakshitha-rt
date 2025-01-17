@@ -9,7 +9,9 @@ ___
 I am passionate AI researcher specializing in multimodal learning. With a strong foundation in machine learning and deep learning, I have co-authored two published papers and have another under review for CVPR 2025. My repositories reflect my journey through various projects that tackle real-world challenges using the latest advancements in AI. Beyond research, I thrive in collaborative environments, engaging in hackathons and workshops to both learn and lead. 
 
 </h6></em>
-
+<em>
+    <strong>Achievements</strong>
+</em>
 
 
 
