@@ -1,8 +1,5 @@
--Hey i'm Rakshitha R.T. 
-- 👀 I’m interested in machine learning,AI
-- 🌱 I’m currently learning reinforcement learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on email- rakshithart177@gmail.com
+<img src="https://github.com/rakshitha-rt/Files/blob/main/hello.gif" alt="Hello GIF" width="40" height="40">👀 Hello, I am Rakshitha. 
+___
 
 <!---
 rakshitha-rt/rakshitha-rt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
